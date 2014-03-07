@@ -18,5 +18,6 @@ cp index.html www/
 cp index.en.html www/
 cp cryptoparty_logo.png www/
 cp cryptoparty.css www/
+cp -r resources www/
 
 echo "[+] It is done"
